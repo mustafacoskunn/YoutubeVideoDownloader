@@ -25,6 +25,7 @@ dependencies:
   cupertino_icons: ^0.1.2
   youtube_extractor: ^1.0.4 #video veya resim indirmek için
   flutter_custom_tabs: ^0.6.0 #bu bağlantıyı sekmede açmak için
+  progress_dialog: ^1.2.0
 
 
 dev_dependencies:
